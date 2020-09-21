@@ -4,6 +4,6 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <h1>Hello World!</h1>
+    <?php msg = "Hello World!"; echo "{msg}"; ?>
   </body>
 </html>
